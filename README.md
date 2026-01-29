@@ -14,6 +14,7 @@ Para realizar este curso, utilizo um setup focado em mobilidade:
 ## 📌 Exercícios em Destaque
 * **Ex079:** Cadastro de números em lista com verificação.
 * **Ex080:** Ordenação de lista sem utilizar o método `.sort()`.
+* **Ex081:** Busca de posição do número 5 em lista decrescente
 
 ## 🎓 Sobre Mim
 Estudante de **Análise e Desenvolvimento de Sistemas (ADS)**, focado em desenvolvimento Backend e apaixonado por resolver problemas através do código.

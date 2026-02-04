@@ -16,6 +16,7 @@ Para realizar este curso, utilizo um setup focado em mobilidade:
 * **Ex080:** Ordenação de lista sem utilizar o método `.sort()`.
 * **Ex081:** Busca de posição do número 5 em lista decrescente
 * **Ex082:** Separando números de ímpar ou par em listas
+* **Ex083:** Varificando parênteses '()' em expressões matematicas
 
 ## 🎓 Sobre Mim
 Estudante de **Análise e Desenvolvimento de Sistemas (ADS)**, focado em desenvolvimento Backend e apaixonado por resolver problemas através do código.
